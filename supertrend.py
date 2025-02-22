@@ -9,7 +9,7 @@
 from credentials import api_key,secret_key
 from alpaca.data.historical.stock import StockHistoricalDataClient
 import pendulum as dt
-import pandas as pd
+import panda as pd
 import pandas_ta as ta
 import time
 import logging
