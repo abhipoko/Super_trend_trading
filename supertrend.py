@@ -27,8 +27,7 @@ from alpaca.trading.client import TradingClient
 from alpaca.trading.requests import GetOrdersRequest
 from alpaca.trading.enums import OrderSide, QueryOrderStatus,TimeInForce
 
-api_key='PKCGQ99MC5FQA1P8ZSRE'
-secret_key='rkWLI1F2poiTbuERdzozfOLgVV6mrFKTH27Ugvb1'
+
 list_of_tickers=['TSLA','AMZN','GOOG','NVDA','AAPL','MSFT','NFLX','AMD']
 
 
