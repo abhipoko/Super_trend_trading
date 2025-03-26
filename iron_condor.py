@@ -47,8 +47,7 @@ spot_move=2
 
 # Import the required module from the fyers_apiv3 package
 import datetime as dt
-api_key='PKCGQ99MC5FQA1P8ZSRE'
-secret_key='rkWLI1F2poiTbuERdzozfOLgVV6mrFKTH27Ugvb1'
+
 import json
 import pickle
 import sys
